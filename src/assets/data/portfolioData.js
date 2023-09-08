@@ -8,7 +8,7 @@ const portfolios = [
     category: "Web Design",
     title: "This Portfolio",
     technologies: ["React", "Tailwind CSS"],
-    siteUrl: "https://github.com/Cendon19/my-portfolio",
+    siteUrl: "https://github.com/Cendon19/portfolio",
    
   },
   {
